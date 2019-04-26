@@ -1,0 +1,2 @@
+# DjangoProTwo
+django school project
